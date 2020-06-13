@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 64" width="50" height="64">
+	<defs>
+		<image width="50" height="64" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAABACAYAAABY1SR7AAAAAXNSR0IB2cksfwAABWBJREFUeJzt2m1MW1UYB3AkOhfFhPhhLpHEJUal7ShtL6QBSiiaLcuYxM5gWLK4oR+AFhgMlrAVCEgWWShsLg4mQ6dmukHdEiVTM5nKPmicY6NAYYyXJaCTbcCgo1Sg9z6eUza4bW9Le+mlh8Sb/L+08Jz74/S89HBDACBEsBze/AJTIBsHg6gVTkjChGxLOAQKXSgbobUUIAhO85qEMAeiv8MIFgQlsnBtQfTSPFq3gHCGiOahNjJpbUBKoyg6V0E/RrhAcEah9tUXyYaUU88wBQoLG8EBwfkNPqGeIhbCHJB3uiI8QHA+JhJCF0fXcyG8QABqxLvJguhlaezB7TPEIJqBGkk0GRC9/CU6TzHnCbEMBGcAjsrCgwspDwll9stGvSF8gOC0oHJPBA2CFr3LyyF8hKDxIioNCoQ+GF3iC8JniEFEQ61k2+pC9NEqOkfBBBiCMw5HIzetDiRfFk7vU8z4ivATgnMdyjetFxzCFMr7/UHwgKCITwsLKZad8RfBD+JYLDMFgQwfy6i062L9RvCG1G62T3yd+WbAId3H8sYnirYAn9jq3+CV0QuHLgUc0vz9D+ZTzUbgk/ZuM790mU/+DwkUpOCMEVJPN4P0VDPkd9yEalMvNHX1rB1I9TkjRKGbDz2xlO03+haTh1C/dLnfdN/Qbbg/MQEdPb3Bhxw+a4SwOmeEKwRnJ8oll955MDUF+BocHgkupAHllQZ3BBcEJwv1zDUWZNJicUCGRoIM2fOlkROxt/UqjM3NQ9ngX26Yhs5e8iDKRnfE+z//CQwsXFW377hBik03yYNsPOkZ8dU/Y7DT1A/vmYecILs7CIQ8xxrkGz79FuzMAqPiqhkyEODu7BzQ6KX0roFFyNsoxEEkrCn3yTr0mnkQdG3tEPF5C9xDYwRft6w2SGH1SC6JPZJymnvGerf1D8cN9iFEWme/00friInAwY4XQq41ZH39N1AyMAIa0y23teTXLgKnX5wMD1Mw1zrSyJp6iYPgvPOFEZ6u8wxJRTnugsC5c/ce0Gg26BkYIAOC8wHaqlBoXXm+fgmS3tEHRWjd+NHLxvG62eW9YEPYqUFjp42kbbyxpaX3s3NngU9udHbwSrvJ1BBYSHlI6N8VGjuf7+u8v7OjzBmSxnDbgYHgMyaD6PxkiZoXYiUQpiwKGG3MedirXvacyzsCn5LXiK44ihZHBwWCf9+upa7gg0F+kCPSCFSse7FoECGP0g25ygj/IAaJGBUadioafAjOMGTKxb5BDBIVKjLhVpQMCM4EaCmVd0i1SIMK2DiLkgPBsdl1Cg03xCDOAvw/Ck9FyYLg0HQ2leUMMYgqly1KHmQh2VTlAsQgrvCpKKkQHB1VgcfFRZ+KlkhXH3LItzYZLXURrdySdY4HXaoj1V7z4WuvQ2lUCX1Qmu9vlq3NlTLprnktlTyfE6P2FsiOTYI0yTqfN41+Ry0J+3dHnM66Le4C+qvtg2xFIm5QqPYEKTqbGpdmSVTZJmMTAYf1MeiEXHlAnnQQHGJLVSZPKlXwGOECwZmGXOpl4iEWtWqSjeCAoE1gTBvRkOlUpZQNmFIlwKxWDkyTHuj9ziDQxm4kFmJNiatgQ2x7Hk29piZgGnOce0Wn2EEsZGZ73C42BPXQEqQqzblHsmLkxEJQudCpOBXNxtj1UQCXj7uOk/voZ1f0NJCwEJTpLfEdbIhVowSmOt0V8lGg2w08BA94pddZyxrogS4IBMe6Nf53jxAdVSVEm4JAHmriN1gSVHMckEEokj67ZiA4eJ/lAqEd+y2B2hMMgjO9Nf7aIkRH1QjZlqCQB2+pwx8mJ4wzWsVPvhyyrST/AbQL1WP1miZxAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Get Srart">
+		<g id="items">
+			<g id="Top Items">
+				<g id="item 1">
+					<g id="wrap">
+						<g id="image">
+							<use id="replace icon" href="#img1" x="0" y="0" />
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

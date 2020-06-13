@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+	<defs>
+		<image width="64" height="64" id="img1" href="data:image/png;base64,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"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Get Srart">
+		<g id="items">
+			<g id="Bottom Items">
+				<g id="item 1">
+					<g id="wrap">
+						<g id="image">
+							<use id="replace icon" href="#img1" x="0" y="0" />
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

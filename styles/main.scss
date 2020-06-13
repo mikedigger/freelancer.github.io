@@ -1,0 +1,18 @@
+@charset 'UTF-8';
+
+@import 'vendors/swiper';
+@import 'abstracts/variables';
+@import 'abstracts/helpers';
+@import 'base/normalize';
+@import 'base/reset';
+@import 'base/container';
+@import 'base/typography';
+@import 'components/forms';
+@import 'components/burger';
+@import 'components/popup';
+@import 'components/sliders';
+
+@import 'layout/header';
+@import 'layout/hero';
+@import 'layout/all';
+@import 'layout/footer';

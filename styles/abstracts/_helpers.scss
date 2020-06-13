@@ -1,0 +1,51 @@
+// @extend %listreset;
+%listreset {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+// @extend %flex-center
+%flex-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+// @extend %center-xy
+%center-xy {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+// @extend %center-y
+%center-y {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+// @extend %center-x;
+%center-x {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+// @extend %fit-img;
+%fit-img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+@mixin placeholder {
+  &::-webkit-input-placeholder {@content}
+  &::-moz-placeholder {opacity: 1; @content}
+  &:-moz-placeholder {@content}
+  &:-ms-input-placeholder {@content}
+  &.placeholder {@content}
+}

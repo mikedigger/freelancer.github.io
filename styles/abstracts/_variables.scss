@@ -1,0 +1,45 @@
+// Colors
+$white: #fff;
+$green: #1baba1;
+$dark-blue: #404f54;
+$pink: #d02184;
+
+$base-font: 'Open Sans', 'Proxima-Nova', 'Arial', 'Helvetica Neue', 'Helvetica', sans-serif;
+$secondary-font: 'Lora','Times New Roman', Times, Georgia, serif;
+
+// Body
+$base-text-color: $dark-blue;
+$base-background-color: $white;
+$font-size-base: 16px;
+$line-height-base: 1.6;
+$base-font-family: $base-font;
+$base-min-width: 320px;
+
+// Liks
+// $base-link-color: $dark-blue;
+// $base-hover-link-color: $red;
+
+// Buttons 
+$btn-color: $white;
+$btn-background: $pink;
+// $btn-padding: 0.4em 15px !default;
+$btn-font-size: 14px;
+
+// Forms
+// $form-element-padding: $btn-padding !default;
+// $form-element-border-color: $black !default;
+// $form-element-focus-border-color: $black !default;
+// $placeholder-color: $black !default;
+
+// Headers 
+$h1-font-size: 52px;
+$h2-font-size: 36px;
+$h3-font-size: 26px;
+$h4-font-size: 21px;
+$h5-font-size: 18px;
+$h6-font-size: 14px;
+
+$headings-font-family: $base-font !default;
+$headings-color: $dark-blue !default;
+
+$animation-speed: 0.3s;

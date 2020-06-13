@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+	<defs>
+		<image width="64" height="64" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAAXNSR0IB2cksfwAAAa1QTFRF////IJ+/Ia+/GKi5FaW2EKGzC52wBZitS8/ZSs/ZSc/aSs/YStDZSdHYQL+/GrOzH6y8FaW2BpmtApWqSs/ZSs/aStDZS9DaM8zMAP//Hq29C5yvSs/ZStDYAP//IK7AD5+ySs/ZSc7bGqe5S8/ZIbzIE6K1Ss/ZQNXVILC+DJ6yE6O1F6a4Ss/ZSs/ZSs7ZRtPcCZuvGKe4K6rVVar/Sc/aSs/ZB5mtHKq6K6q/VdXVSs/YSs/ZFqW3KbjCTtjYSs/ZA5arHKm7S8/YSs/ZHqu8Ss/YGKi6Sc7aq7i4prO0lMHIlMLJoL3BqsLDqdPWqNHUvMjIm6qrytHSzdTVsr6/tb29/4gr85VA/4sp/4wp9pM7/4or/4wp/4wp/4wq/40o/4Az/4wp/4sp/6NV/7Rz/4wo/+zb////9ppK9pxN/4wp/48u//38//v49pQ99pQ///37/4wp/6BP/+rY/+va/4wp/6he/+LI/4wp/5c9//z5/9az/4wp/5U7/44t/4wo/4wp/4so/4Ag/4sp/44n/4wp/40p/4wo9ZI+0a2F////pLKzytLTs76/kJWHgQAAAI90Uk5TAAhzx9/v+f7z2b+lh0IECord/v//7qJSBQKP+txWAW70yj/FhRfnsAw39+bTla/SHfzOBgOP4/2uDAZv69gZDZv/r3D8hk/HiL/r///16///F/////8fHsNL8v8Y7P+yYArwUf//nv/////F////////3////+X//8z///+t//9m/YsI1jT7fVLsMgLy///XfCTCAAACc0lEQVR4nO2V51sTQRDGh96l3AUMgil2KUpTigjYILFySGhh6HAKWEDpvTf9m01295KL7F7i5oP6PMzHeef97ezs7h2AKBISk5JTUtPSMzKzsnMuCcsEkZuXX6CQUEnYCosu/4HdXnxFMUI1oqT0aqx+h1NRzgNU1eWObflrisIHqOr1GJq4cVMRA9Rbt6P579w1mQucZeUVlS6biXDvfpT1w/6qakcNTda66x6ECZY92EP9P6xvMAuNTY9Cu7CaQ2h+zY9/l1paQ5MU+x3M3vaEpz59xgjC07Sz8297ztdfMIJLtIli1gB3fdIDa6GUL+ey+9ss8gOwOZTw30Uem/+5+YWjhZ1FEVfNp4B6sR+giQIKeVoCfb9VDTzRiEZ6o2y870MibaDayg9QR1vI4UhJFOCwBrgpIJsjJdP3U2MNqKUvK4sjpRCA09oP4CKATI6SSgBl0QCVBJDBUdIIoDwaoIIA0jkKnWF7NEAHneIF4ALwbwI8Xu/LV8F47fVY2T3eN2+D8c4bWdepaVrX+2B0a1qn2B+o6yZlXVpknc8M8IkBPjPAFyn8XUBPrwygt8dI9/UPyAAG+vto1j+IcgAc9JPsEMoCcCiYHEZ5AA4DjIzGAxgdgTHE8Qk5wMQ44hhMIk7pH2QAH/UpxEmYxpnZT59lAF++zs7gNMzhvP5Nbgvf9XmcgwVc1JfkAEv6Ii7AMq6srskB1lZXcBnWETc25QCbG4jrsIXx3APcAv92PIDtwGvYiQewE0ju7skD9naD2f0DWcDBPk0fygIOjfzRsQzg+CgsnMgATiKF//y/AKdnmvaDAc5OxYBA3U8DwOp+Abc0kCO4WAdYAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Get Srart">
+		<g id="items">
+			<g id="Bottom Items">
+				<g id="item 3">
+					<g id="wrap">
+						<g id="image">
+							<use id="replace icon" href="#img1" x="0" y="0" />
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

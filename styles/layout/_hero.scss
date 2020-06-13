@@ -1,0 +1,26 @@
+.hero {
+	z-index: 0;
+	height: 100vh;
+	min-height: 600px;
+	max-height: 1080px;
+	padding: 0 15px;
+	background: url(../img/hero-img.jpg) no-repeat center / cover;
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	@media (min-width: 1023px) {
+		padding-top: 167px;
+		display: block;
+	}
+	
+	.h1 {
+		margin: 0 0 15px;
+		font-size: 52px;
+	}
+}
+
+.hero__subtitle {
+	@extend .section__subtitle
+}

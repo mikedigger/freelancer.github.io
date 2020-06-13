@@ -1,0 +1,45 @@
+.burger {
+	z-index: 10;
+	position: relative;
+	width: 30px;
+	height: 16px;
+	margin-left: auto;
+	border-width: 2px 0;
+	border-style: solid;
+	border-color: $dark-blue;
+	transition: all $animation-speed cubic-bezier(0.67,-.03,.45,1);
+	cursor: pointer;
+	@media screen and (min-width: 1023px) {
+		display: none;
+	}
+	// @media screen and (min-width: 481px) {
+	// 	width: 30px;
+	// 	height: 16px;
+	// }
+	&.active {
+		transform: rotate(90deg);
+		border-width: 0;
+		margin-top: -5px;
+		margin-bottom: -5px;
+		&:before, 
+		&:after {
+			background: $white;
+		}
+		&:before {
+			transform: rotate(45deg);
+		}
+		&:after {
+			transform: rotate(-45deg);
+		}
+	}
+	&:before, 
+	&:after {
+		@extend %center-y;
+		content: '';
+		left: 0;
+		width: inherit;
+		height: 2px;
+		background: $dark-blue;
+		transition: all 0.35s cubic-bezier(.8, -.03, 0.45, 1) 0s;
+	}
+}

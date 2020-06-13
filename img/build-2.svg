@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 43 61" width="43" height="61">
+	<defs>
+		<image width="43" height="61" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACsAAAA9CAMAAAADDGB0AAAAAXNSR0IB2cksfwAAAMlQTFRF1dzczdTV0tjZ5urq5urq1Nvb1Nvb09ra0tnZ0djY0NfXz9bX5+rq6Orq0NfY5erq5Orq4+nq4unq4unp4enp4Onp3+np3unp3ujp3Ojp3ejp2+jp2ejp2ujo2Ojo2efo1ufo2Ofo1efo1+fo1OfofZKUc4iLfZCTqba3cYaJaH+CcYeKm6qrpbKzXnZ5TGhrUGtuYnp8aH+Bn66vRGFkNlVYYHh7UWxvVXBzbIKEcYeJmamqmqmqcoeKl6eoeI2Pd42PgJOWqra4yQ6KwwAAAEN0Uk5T9P////7+//////////////////////////////////////////7////////////////////////////////R/v7976M8cfgAAAC9SURBVHic7c/HDoJQFIThq9gFwYYFFXvF3rvy/g+la+6BDInXaMK//hYzjIWIwhJRhEVhKwVWsI35sHFBNiHIJn/Apv7Mpr2sjFtZlFXwb8qXbOZD1vnN08q4deRpVRW3mobbbA63+QJuizpu9RJs1XIFt1UDt0YNt/UGbs0mbltt3Ha6gaVsr080GFKx0ZhoYll+7JSPsrP5Yrla81F2s31n8VF2tz8cT2c+170XPnZ1sdSG2/3B97Rtwr4AR5xeAhc/+NMAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Get Srart">
+		<g id="items">
+			<g id="Top Items">
+				<g id="item 2">
+					<g id="wrap">
+						<g id="image">
+							<use id="replace icon" href="#img1" x="0" y="0" />
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
